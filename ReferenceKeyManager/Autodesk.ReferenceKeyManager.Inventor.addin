@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 24.0-->
+  <ClassId>{3562a43d-704b-4386-9325-26702b3b56fa}</ClassId>
+  <ClientId>{3562a43d-704b-4386-9325-26702b3b56fa}</ClientId>
+  <DisplayName>ReferenceKeyManager</DisplayName>
+  <Description>ReferenceKeyManager</Description>
+  <Assembly>ReferenceKeyManager.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>23..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

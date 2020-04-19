@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+    <assemblyIdentity name="SampleAddIn" version="1.0.0.0"></assemblyIdentity>
+
+    <clrClass clsid="{95935d59-a1da-4f42-8a72-69e1a486c1fc}" progid="SampleAddIn.StandardAddInServer" threadingModel="Both" name="SampleAddIn.StandardAddInServer" runtimeVersion=""></clrClass>
+
+    <file name="SampleAddIn.dll" hashalg="SHA1"></file>
+
+</assembly>
