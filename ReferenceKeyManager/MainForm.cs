@@ -225,7 +225,7 @@ namespace ReferenceKeyManager
                 rkm.StringToKey(key, ref bytes);
                 object matchType;
                 dynamic result = rkm.BindKeyToObject(ref bytes, i, out matchType);
-                if (result.GetType() == Type.GetType("Invenor.ObjectCollection"))
+                if (result.GetType() == Type.GetType("Inventor.ObjectCollection"))
                 {
                     m_app.ActiveDocument.SelectSet.SelectMultiple(result);
                 }
